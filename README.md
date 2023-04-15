@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @keshriAyushh
-- 👀 I’m interested in Software Development and Competitive Programming
-- 🌱 I’m currently learning DSA in Java and Android Development using Kotlin
-- 💞️ I’m looking to collaborate on projects regarding android
-- 📫 E-mail : keshri.ayush019@gmail.com
+- Hi, I’m Ayush Keshri, pursuing B.E. in Electronics and Communication. I am currently in my 2nd year of engineering.
+- I’m interested in Software Development and Competitive Programming
+- I have been learning Data Structures and Algorithms in Java and Android Application Development in Kotlin
+- I am interested to collaborate on projects related to Computer Science.
+- You can reach out to me at : keshri.ayush019@gmail.com
 
 <!---
 keshriAyushh/keshriAyushh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
